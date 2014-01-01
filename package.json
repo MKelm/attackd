@@ -2,13 +2,13 @@
   "name": "AttackD",
   "main": "./lib/ad.html",
   "window":{
-    "toolbar":true,
+    "toolbar":false,
     "icon":"",
-    "fullscreen":false,
+    "fullscreen":true,
     "frame":true,
     "min_width":800,
     "min_height":600
   },
   "dom_storage_quota":40,
-  "chromium-args":"--disable-webgl --disable-device-orientation --enable-accelerated-2d-canvas --ignore-gpu-blacklist"
+  "chromium-args":"--disable-device-orientation --enable-accelerated-2d-canvas --ignore-gpu-blacklist"
 }
