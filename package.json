@@ -2,9 +2,9 @@
   "name": "AttackD",
   "main": "./lib/ad.html",
   "window":{
-    "toolbar":false,
+    "toolbar":true,
     "icon":"",
-    "fullscreen":true,
+    "fullscreen":false,
     "frame":true,
     "min_width":800,
     "min_height":600
