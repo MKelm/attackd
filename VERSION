@@ -1,5 +1,5 @@
 AttackD
-0.0.1-build alpha
+0.0.2-build alpha
 
 libraries/inclusions
 - node-webkit (0.6.2, 2013-07-08 or higher)
